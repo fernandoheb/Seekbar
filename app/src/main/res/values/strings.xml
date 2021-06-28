@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Todo Poderoso Tomatinho</string>
+    <string name="apresentacao"> Cálculo de porcentagem </string>
+    <string name="escolha"> Valor escolhido</string>
+    <string name="resultado"></string>
+    <string name="resultado_hint">Valor Escolhido..</string>
+</resources>
